@@ -7,6 +7,15 @@ body {
   background-color: #2f4f4f;
 }
 
+p {
+  color: bisque;
+}
+
 .heading {
-  color: green;
+  color: tomato;
+}
+
+#image {
+  width: 300px;
+  height: auto;
 }
